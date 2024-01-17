@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Agile.Cms.Core.Domain.Shared": {
+      "path": "src/Agile.Cms.Core.Domain.Shared/Agile.Cms.Core.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.Domain": {
+      "path": "src/Agile.Cms.Core.Domain/Agile.Cms.Core.Domain.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.Application.Contracts": {
+      "path": "src/Agile.Cms.Core.Application.Contracts/Agile.Cms.Core.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.Application": {
+      "path": "src/Agile.Cms.Core.Application/Agile.Cms.Core.Application.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.EntityFrameworkCore": {
+      "path": "src/Agile.Cms.Core.EntityFrameworkCore/Agile.Cms.Core.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.MongoDB": {
+      "path": "src/Agile.Cms.Core.MongoDB/Agile.Cms.Core.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.HttpApi": {
+      "path": "src/Agile.Cms.Core.HttpApi/Agile.Cms.Core.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.HttpApi.Client": {
+      "path": "src/Agile.Cms.Core.HttpApi.Client/Agile.Cms.Core.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.TestBase": {
+      "path": "test/Agile.Cms.Core.TestBase/Agile.Cms.Core.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Agile.Cms.Core.EntityFrameworkCore.Tests": {
+      "path": "test/Agile.Cms.Core.EntityFrameworkCore.Tests/Agile.Cms.Core.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agile.Cms.Core.MongoDB.Tests": {
+      "path": "test/Agile.Cms.Core.MongoDB.Tests/Agile.Cms.Core.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agile.Cms.Core.Domain.Tests": {
+      "path": "test/Agile.Cms.Core.Domain.Tests/Agile.Cms.Core.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agile.Cms.Core.Application.Tests": {
+      "path": "test/Agile.Cms.Core.Application.Tests/Agile.Cms.Core.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agile.Cms.Core.HttpApi.Host": {
+      "path": "host/Agile.Cms.Core.HttpApi.Host/Agile.Cms.Core.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "Agile.Cms.Core.Web": {
+      "path": "src/Agile.Cms.Core.Web/Agile.Cms.Core.Web.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Agile.Cms.Core.HttpApi.Client.ConsoleTestApp/Agile.Cms.Core.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Agile.Cms.Core.Web.Host": {
+      "path": "host/Agile.Cms.Core.Web.Host/Agile.Cms.Core.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "Agile.Cms.Core.AuthServer": {
+      "path": "host/Agile.Cms.Core.AuthServer/Agile.Cms.Core.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "Agile.Cms.Core.Host.Shared": {
+      "path": "host/Agile.Cms.Core.Host.Shared/Agile.Cms.Core.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "Agile.Cms.Core.Web.Unified": {
+      "path": "host/Agile.Cms.Core.Web.Unified/Agile.Cms.Core.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "Agile.Cms.Core.Blazor": {
+      "path": "src/Agile.Cms.Core.Blazor/Agile.Cms.Core.Blazor.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.Blazor.Host": {
+      "path": "host/Agile.Cms.Core.Blazor.Host/Agile.Cms.Core.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "Agile.Cms.Core.Blazor.Server": {
+      "path": "src/Agile.Cms.Core.Blazor.Server/Agile.Cms.Core.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.Blazor.WebAssembly": {
+      "path": "src/Agile.Cms.Core.Blazor.WebAssembly/Agile.Cms.Core.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "Agile.Cms.Core.Blazor.Server.Host": {
+      "path": "host/Agile.Cms.Core.Blazor.Server.Host/Agile.Cms.Core.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

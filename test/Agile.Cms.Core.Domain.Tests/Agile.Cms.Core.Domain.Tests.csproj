@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Agile.Cms.Core</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Agile.Cms.Core.Domain\Agile.Cms.Core.Domain.csproj" />
+    <ProjectReference Include="..\Agile.Cms.Core.TestBase\Agile.Cms.Core.TestBase.csproj" />
+  </ItemGroup>
+
+
+</Project>

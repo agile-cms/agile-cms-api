@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Agile.Cms.Core": {
+      "path": "Agile.Cms.Core.abpmdl"
+    }
+  }
+}
